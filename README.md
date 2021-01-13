@@ -1,2 +1,2 @@
-# AnagramSolver
-Python anagram solver using OCR
+# Python AnagramSolver
+Python anagram solver using PyTesseract OCR
